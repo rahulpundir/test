@@ -7,10 +7,10 @@ This role is for configuring the basic server requirements for a flask applicati
 
 Including an example of how to use this role (for instance, with variables passed in as parameters) is always nice for users too:
 
->  ---
+>  ``` ---
 >   - hosts: localhost
 >     roles:
->      - { role: "flask-setup" }
+>      - { role: "flask-setup" }```
 
 ## What This Role Will Do
 
