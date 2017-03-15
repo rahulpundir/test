@@ -10,7 +10,7 @@ Including an example of how to use this role (for instance, with variables passe
 >  ``` ---
 >   - hosts: localhost
 >     roles:
->      - { role: "flask-setup" }```
+>      - { role: "flask-setup" } ```
 
 ## What This Role Will Do
 
